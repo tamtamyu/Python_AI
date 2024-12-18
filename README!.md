@@ -1,0 +1,1 @@
+# home_credit_default_deskで行った工夫について書き記す。
